@@ -1,14 +1,14 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [bottomgrid.ascx](./CS/WebSite/bottomgrid.ascx) (VB: [bottomgrid.ascx.vb](./VB/WebSite/bottomgrid.ascx.vb))
+* [bottomgrid.ascx](./CS/WebSite/bottomgrid.ascx) (VB: [bottomgrid.ascx](./VB/WebSite/bottomgrid.ascx))
 * [bottomgrid.ascx.cs](./CS/WebSite/bottomgrid.ascx.cs) (VB: [bottomgrid.ascx.vb](./VB/WebSite/bottomgrid.ascx.vb))
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [navbar.ascx](./CS/WebSite/navbar.ascx) (VB: [navbar.ascx.vb](./VB/WebSite/navbar.ascx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [navbar.ascx](./CS/WebSite/navbar.ascx) (VB: [navbar.ascx](./VB/WebSite/navbar.ascx))
 * [navbar.ascx.cs](./CS/WebSite/navbar.ascx.cs) (VB: [navbar.ascx.vb](./VB/WebSite/navbar.ascx.vb))
 * [topgrid.ascx](./CS/WebSite/topgrid.ascx) (VB: [topgrid.ascx](./VB/WebSite/topgrid.ascx))
-* [topgrid.ascx.cs](./CS/WebSite/topgrid.ascx.cs) (VB: [topgrid.ascx](./VB/WebSite/topgrid.ascx))
+* [topgrid.ascx.cs](./CS/WebSite/topgrid.ascx.cs) (VB: [topgrid.ascx.vb](./VB/WebSite/topgrid.ascx.vb))
 <!-- default file list end -->
 # How to conditionally create controls via callbacks using the ASPxCallbackPanel
 
