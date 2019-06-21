@@ -11,6 +11,9 @@
 * [topgrid.ascx.cs](./CS/WebSite/topgrid.ascx.cs) (VB: [topgrid.ascx.vb](./VB/WebSite/topgrid.ascx.vb))
 <!-- default file list end -->
 # How to conditionally create controls via callbacks using the ASPxCallbackPanel
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1907)**
+<!-- run online end -->
 
 
 <p>The standard ASP.NET behavior demands full page hierarchy recreation on each page request. However, there are situations when the ASPxNavBar (with turned callbacks on) is expanded too slowly if the nearest ASPxGridView binding is long. This example demonstrates the following tasks:<br />
